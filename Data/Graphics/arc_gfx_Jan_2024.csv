@@ -1,0 +1,78 @@
+Article Title,Content,External URL
+Troubleshooting Flickering  Crashing  and Other Common Game Issues on Intel� Graphics,"If you are having trouble with a game, follow the recommendations for troubleshooting the problem.
+
+Click or the topic for details:
+
+Identify the problem
+Take note of error messages, symptoms, and what you were doing when the problem occurred. Can you replicate the problem? This information is critical for determining the issue affecting your system.
+
+Note	If you are running the game for the first time on your current configuration, consider reducing the in-game settings or running the game in windowed mode. Performance can improve in some situations.
+Is the issue with the game a new problem?
+Check first to see if the problem you are experiencing has already been reported to the game developers, the original equipment manufacturer (OEM) of your system, or Intel.
+
+Do a quick online search using the title of the game, a description of your problem, or any error message displayed. Check the Internet to see if others have reported the same issue, and if a solution is posted. Another good resource is the Intel Graphics Communities site.
+
+Check game forums, official fan sites, and official support sites. These web resources can help you troubleshoot and correct issues you encounter with a specific game.
+
+Update your game
+Games that require an always-connected system, multi-player, or massively multi-player online (MMO) automatically update when you connect to their servers. However, single player games can have optional updates pushed out by their developer. Check the game Web site or use the provided game updating tool to make sure that the game is up-to-date.
+
+Update your drivers
+Check your computer manufacturer site for the latest driver updates. If drivers are not available from your manufacturer, you can browse for the appropriate driver on Download Center, or you use the Intel� Driver & Support Assistant (Intel� DSA) to have your system automatically find and install the latest compatible drivers.
+
+To perform a clean installation of the latest graphics driver see Clean Installation of Intel� Graphics Drivers in Windows*.
+
+Update your BIOS
+Download the latest BIOS update for your system directly from your OEM. A BIOS update can fix compatibility issues between your motherboard and processor, and can also improve overall performance.
+
+Other items to check
+Check the power plan settings
+Turn off the Windows Game Bar and Game DVR.
+Press Windows + S.
+In the Windows search box type Game bar settings and press Enter.
+Under Control how Game Bar opens and recognizes your game turn off the option for Record game clips, screenshots and broadcast using Game bar.
+From the left-hand menu, directly below Game Bar, select Game DVR.
+Turn off the Record in the background while I�m playing a game setting.
+ 
+
+Note	
+Intel� Processor Graphics settings recommended on Gameplay - Intel for each game.
+If applicable, test the configuration without the dedicated video card, using just the Intel� Processor Graphics.
+Gather information and contact Intel Customer Support
+If the self-help processes in this document have not resolved your problem, gather the following information and contact Intel Support. Or, you can submit the issue directly to Intel Graphics Communities.
+
+Note	Investigation resources assigned for older games or older graphics products will not be likely unless the specific behavior also occurs on newer Intel� Graphics products. Keep this in mind when posting questions on the Intel� Graphics Community.
+System and monitor information
+
+The full make/model of your system, or motherboard if your system is custom built.
+Full make/model of the monitor you are connecting to.
+Your monitor connection type. Examples: HDMI, VGA, DVI, DisplayPort.
+Problem statement
+
+Submit screenshots or video of the issue as it occurs, with an explanation of the problem and any error messages you received. If you cannot capture screenshots or video, at minimum, provide step-by-step actions that allow us to reproduce the problem.
+
+Reports
+
+Run these reports and attach them to your support request so that we can see critical system information. Here are the reports that are needed and how to access them.
+
+Intel� System Support Utility (SSU)
+
+Download the Intel� System Support Utility and save the application to your system.
+Open the application and click Scan to see system and device information. The Intel� System Support Utility defaults to the Summary View on the output screen following the scan. Click the menu where it says summary to change to Detailed View.
+To save your scan, click Next and click Save. You can save the file to any accessible location on your computer.
+DirectX* Diagnostic (DxDiag):
+
+Click Start.
+Type DxDiag in the search box and click DxDiag when it displays.
+Click Save All Information.
+System Information:
+
+Click Start.
+Type msinfo32 in the search box. Click msinfo32.exe when it displays.
+Save.",https://www.intel.com/content/www/us/en/support/articles/000005746.html
+Text  Windows  and Graphics are Too Large. How Do I Fix This?,"You can configure Windows operating systems to magnify or reduce text or other items on your screen. See How Do I Make My Text Bigger or Smaller?.
+If your computer is set to a lower display resolution, it stretches your desktop on a large display. Try selecting a larger resolution. See How Do I Change My Display Resolution?
+The system could be in �clone� or �duplicate� mode if:
+You cannot select a larger resolution
+You are certain that your display supports a larger resolution
+If it is in �clone� or �duplicate,� try setting to �single display� mode. See How Do I Select a Resolution Larger than 800x600 or 1024x768?""",https://www.intel.com/content/www/us/en/support/articles/000023784.html
